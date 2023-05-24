@@ -1,5 +1,6 @@
 mod user_input;
 mod hide_unhide;
+mod test;
 
 use user_input::*;
 use hide_unhide::*;
